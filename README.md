@@ -1,7 +1,7 @@
 # Video-Games-sales-Dashboard
 Welcome to the Video Games Sales Dashboard! This interactive dashboard comprehensively analyzes video game sales across different regions, platforms, and genres. It is designed to help users easily navigate and explore the data to uncover insights on market trends, popular genres, top publishers, and sales distribution across different zones.
-![KPI Dashboard] <img width="1440" alt="Screenshot 2024-09-04 at 01 26 46" src="https://github.com/user-attachments/assets/8d12bce1-0233-411d-a167-3b2b96e38108">
- 
+![KPI Dashboard] <img width="1659" alt="Screenshot 2024-09-06 at 13 38 08" src="https://github.com/user-attachments/assets/767bd48f-d2a3-46ef-b2fb-bbcc7481515b">
+
 
 
 #### Link: 
